@@ -39,6 +39,18 @@
     <ClCompile Include="essential\conditional_compilation\ConditionalCompilation.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="essential\pointer\DeclareAPointerVariables.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="essential\pointer\ArithmeticOperationIntervalBetweenTwoPointers.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="essential\pointer\IterateOverArrayWithoutPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="essential\pointer\IterateOverArrayWithPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="essential\conditional_compilation\ExampleOfHaderGuard.h">
