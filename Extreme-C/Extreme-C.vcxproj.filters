@@ -36,5 +36,13 @@
     <ClCompile Include="essential\macro\UsingAVariableArgumentMacroThatMimicsLoop.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="essential\conditional_compilation\ConditionalCompilation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="essential\conditional_compilation\ExampleOfHaderGuard.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
