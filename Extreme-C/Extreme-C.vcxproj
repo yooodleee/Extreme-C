@@ -150,6 +150,12 @@
     <ClCompile Include="essential\pointer\ArithmeticOperationIntervalBetweenTwoPointers.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="essential\pointer\dangling_pointer\ResolvingSegmentationFaultsUsingHeapMemory.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="essential\pointer\dangling_pointer\SegmentationFaultSituation.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="essential\pointer\DeclareAPointerVariables.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

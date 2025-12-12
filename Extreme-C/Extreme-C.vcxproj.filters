@@ -57,6 +57,12 @@
     <ClCompile Include="essential\pointer\generic_pointer\GenericFunction.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="essential\pointer\dangling_pointer\SegmentationFaultSituation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="essential\pointer\dangling_pointer\ResolvingSegmentationFaultsUsingHeapMemory.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="essential\conditional_compilation\ExampleOfHaderGuard.h">
