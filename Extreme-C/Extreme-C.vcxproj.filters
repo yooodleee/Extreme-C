@@ -69,6 +69,12 @@
     <ClCompile Include="essential\pointer\call_by_value\CallByPointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="essential\pointer\function_pointer\OneFunctionPointerCallsTwoFunctions.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="essential\pointer\function_pointer\TypeAlias.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="essential\conditional_compilation\ExampleOfHaderGuard.h">
