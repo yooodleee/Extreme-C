@@ -75,6 +75,15 @@
     <ClCompile Include="essential\pointer\function_pointer\TypeAlias.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="essential\struct\MemoryLayout.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="essential\struct\PackedStructure.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="essential\struct\StructurePointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="essential\conditional_compilation\ExampleOfHaderGuard.h">
